@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color: cadetblue;
+}
+
+#status {
+    font-size: 20px;
+    color: black;
+}
+
+canvas {
+    border: 10px dotted darkblue;
+    border-radius: 20px;
+    background-color: white;
+}
